@@ -1,6 +1,6 @@
 # ArchAgent
 
-An agentic AI assistant system for software architecture engineering and design.
+An agentic AI assistant system for software architecture engineering and system design.
 
 ## Features
 - **Repo Scanning**: Automatically analyze existing repositories to extract architecture, schemas, and routes using AST parsing.
